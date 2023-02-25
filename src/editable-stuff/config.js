@@ -71,8 +71,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "kirti-poddar151", //i.e."johnDoe12Gh"
-  reposLength: 6,
-  specificRepos: ["Meme-Generator","Markdown-Notes-App","Travel-Journal","CS-Algo"],
+  reposLength:0 ,
+  specificRepos: ["Meme-Generator","Markdown-Notes-App","Travel-Journal","Kirti-s-Portfolio","AirBnb-Static-Webpage"],
 };
 
 // Leadership SECTION
