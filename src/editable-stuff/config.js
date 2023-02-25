@@ -71,7 +71,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "kirti-poddar151", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  reposLength: 6,
   specificRepos: [],
 };
 
